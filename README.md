@@ -387,7 +387,7 @@ movie-industry-performance-analysis/
 ├── 📁 documentation/
 │   ├── Business_Problem.md
 │   ├── Data_Dictionary.md
-│   └── Business_Insights.md
+│
 │
 ├── README.md
 └── .gitignore
