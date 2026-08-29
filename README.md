@@ -262,6 +262,24 @@ Likewise, a movie with the highest ROI is not necessarily the movie with the hig
 
 Therefore, financial performance should be evaluated using multiple metrics.
 
+# 📊 Project Visualizations
+
+## Movie Production Trends
+
+![Movie Trends](visuals/03_movie_trends.png)
+
+## Genre Performance
+
+![Genre Analysis](visuals/04_genre_analysis.png)
+
+## Financial Performance
+
+![Financial Analysis](visuals/05_financial_analysis.png)
+
+## Top Performing Movies
+
+![Top Movies](visuals/06_top_movies.png)
+
 ---
 
 # 🎯 Business Recommendations
